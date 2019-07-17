@@ -1,0 +1,63 @@
+testbed:
+
+  name: pyATS_default_oOeESs
+
+  tacacs:
+    username: "cisco"
+  passwords:
+    tacacs: "cisco"
+    enable: "cisco"
+    line: "cisco"
+
+devices:
+  csr1000v-0:
+    alias: csr1000v-0
+    os: iosxe
+    type: CSR1000v
+    platform: CSR1000v
+
+    connections:
+
+      defaults:
+        class: unicon.Unicon
+      console:
+        protocol: ssh
+        ip: 10.91.52.151
+        port: 22
+    custom:
+      abstraction:
+        order: [os, type]
+  csr1000v-1:
+    alias: csr1000v-1
+    os: iosxe
+    type: CSR1000v
+    platform: CSR1000v
+
+    connections:
+
+      defaults:
+        class: unicon.Unicon
+      console:
+        protocol: ssh
+        ip: 10.91.52.152
+        port: 22
+    custom:
+      abstraction:
+        order: [os, type]
+  csr1000v-2:
+    alias: csr1000v-2
+    os: iosxe
+    type: CSR1000v
+    platform: CSR1000v
+
+    connections:
+
+      defaults:
+        class: unicon.Unicon
+      console:
+        protocol: ssh
+        ip: 10.91.52.153
+        port: 22
+    custom:
+      abstraction:
+        order: [os, type]
