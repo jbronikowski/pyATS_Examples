@@ -1,0 +1,232 @@
+
+   Legend: * (Value obtained from Network delay:)
+
+Channel Id: 16582242  Dst Site-Id: 10.50.3.60  Link Name: ISP2  DSCP: af31 [26] pfr-label: 0:0 | 0:0 [0x0] TCs: 0  BackupTCs: 1
+
+  Immitigable Events Summary:
+   Total Performance Count: 0, Total BW Count: 0
+   ODE Statistics:
+      Received: 17
+  ODE Stats Bucket Number: 1
+   Last Updated  : 19:46:23 ago
+    Packet Count  : 561
+    Byte Count    : 45009
+    One Way Delay : 250 msec*
+    Loss Rate Pkts: 7.13 %
+    Loss Rate Byte: 0.0 %
+    Jitter Mean   : 21306 usec
+    Unreachable   : FALSE
+  ODE Stats Bucket Number: 2
+   Last Updated  : 19:46:53 ago
+    Packet Count  : 557
+    Byte Count    : 44560
+    One Way Delay : 293 msec*
+    Loss Rate Pkts: 7.78 %
+    Loss Rate Byte: 0.0 %
+    Jitter Mean   : 17767 usec
+    Unreachable   : FALSE
+   TCA Statistics:
+      Received: 39 ; Processed: 20 ; Unreach_rcvd: 9 ; Local Unreach_rcvd: 5
+      TCA lost byte rate: 0
+      TCA lost packet rate: 30
+      TCA one-way-delay: 0
+      TCA network-delay: 0
+      TCA jitter mean: 0
+  Latest TCA Bucket
+   Last Updated  : 19:46:23 ago
+    One Way Delay : NA
+    Loss Rate Pkts: 7.13 %
+    Loss Rate Byte: NA
+    Jitter Mean   : NA
+    Unreachability: FALSE
+
+
+Channel Id: 13383058  Dst Site-Id: 10.50.3.60  Link Name: ISP2  DSCP: default [0] pfr-label: 0:0 | 0:0 [0x0] TCs: 5  BackupTCs: 0
+  Channel Created: 4w1d ago
+  Provisional State: Initiated and open
+  Operational state: Available
+  Channel to hub: FALSE
+  Interface Id: 17
+  Supports Zero-SLA: Yes
+  Muted by Zero-SLA: No
+  Estimated Channel Egress Bandwidth: 983 Kbps
+  Immitigable Events Summary:
+   Total Performance Count: 0, Total BW Count: 0
+   ODE Statistics:
+      Received: 73
+   TCA Statistics:
+      Received: 148 ; Processed: 75 ; Unreach_rcvd: 148 ; Local Unreach_rcvd: 21
+      TCA lost byte rate: 0
+      TCA lost packet rate: 0
+      TCA one-way-delay: 0
+      TCA network-delay: 0
+      TCA jitter mean: 0
+
+
+Channel Id: 17148185  Dst Site-Id: 10.50.3.60  Link Name: ISP2  DSCP: ef [46] pfr-label: 0:0 | 0:0 [0x0] TCs: 0  BackupTCs: 0
+  Channel Created: 00:43:37 ago
+  Provisional State: Discovered and open
+  Operational state: Available
+  Channel to hub: FALSE
+  Interface Id: 17
+  Supports Zero-SLA: Yes
+  Muted by Zero-SLA: No
+  Estimated Channel Egress Bandwidth: 0 Kbps
+  Immitigable Events Summary:
+   Total Performance Count: 0, Total BW Count: 0
+   ODE Statistics:
+      Received: 0
+   TCA Statistics:
+      Received: 0 ; Processed: 0 ; Unreach_rcvd: 0 ; Local Unreach_rcvd: 0
+      TCA lost byte rate: 0
+      TCA lost packet rate: 0
+      TCA one-way-delay: 0
+      TCA network-delay: 0
+      TCA jitter mean: 0
+
+
+Channel Id: 17008599  Dst Site-Id: 10.50.3.60  Link Name: ISP2  DSCP: af21 [18] pfr-label: 0:0 | 0:0 [0x0] TCs: 0  BackupTCs: 0
+  Channel Created: 1d03h ago
+  Provisional State: Discovered and open
+  Operational state: Available
+  Channel to hub: FALSE
+  Interface Id: 17
+  Supports Zero-SLA: Yes
+  Muted by Zero-SLA: No
+  Estimated Channel Egress Bandwidth: 0 Kbps
+  Immitigable Events Summary:
+   Total Performance Count: 0, Total BW Count: 0
+   ODE Statistics:
+      Received: 3
+  ODE Stats Bucket Number: 1
+   Last Updated  : 07:04:36 ago
+    Packet Count  : 603
+    Byte Count    : 48240
+    One Way Delay : 25 msec*
+    Loss Rate Pkts: 0.0 %
+    Loss Rate Byte: 0.0 %
+    Jitter Mean   : 2415 usec
+    Unreachable   : FALSE
+  ODE Stats Bucket Number: 2
+   Last Updated  : 09:56:14 ago
+    Packet Count  : 602
+    Byte Count    : 48160
+    One Way Delay : 101 msec*
+    Loss Rate Pkts: 0.0 %
+    Loss Rate Byte: 0.0 %
+    Jitter Mean   : 19979 usec
+    Unreachable   : FALSE
+   TCA Statistics:
+      Received: 0 ; Processed: 0 ; Unreach_rcvd: 0 ; Local Unreach_rcvd: 0
+      TCA lost byte rate: 0
+      TCA lost packet rate: 0
+      TCA one-way-delay: 0
+      TCA network-delay: 0
+      TCA jitter mean: 0
+
+
+
+Channel Id: 13383060  Dst Site-Id: 10.50.3.60  Link Name: ISP1  DSCP: af31 [26] pfr-label: 0:0 | 0:0 [0x0] TCs: 1  BackupTCs: 0
+  Channel Created: 4w1d ago
+  Provisional State: Initiated and open
+  Operational state: Available
+  Channel to hub: FALSE
+  Interface Id: 17
+  Supports Zero-SLA: Yes
+  Muted by Zero-SLA: No
+  Estimated Channel Egress Bandwidth: 0 Kbps
+  Immitigable Events Summary:
+   Total Performance Count: 0, Total BW Count: 0
+   ODE Statistics:
+      Received: 188
+  ODE Stats Bucket Number: 1
+   Last Updated  : 19:46:23 ago
+    Packet Count  : 1153
+    Byte Count    : 157406
+    One Way Delay : 8 msec*
+    Loss Rate Pkts: 0.0 %
+    Loss Rate Byte: 0.0 %
+    Jitter Mean   : 641 usec
+    Unreachable   : FALSE
+  ODE Stats Bucket Number: 2
+   Last Updated  : 19:46:53 ago
+    Packet Count  : 953
+    Byte Count    : 114810
+    One Way Delay : 8 msec*
+    Loss Rate Pkts: 0.0 %
+    Loss Rate Byte: 0.0 %
+    Jitter Mean   : 463 usec
+    Unreachable   : FALSE
+   TCA Statistics:
+      Received: 26 ; Processed: 8 ; Unreach_rcvd: 26 ; Local Unreach_rcvd: 6
+      TCA lost byte rate: 0
+      TCA lost packet rate: 0
+      TCA one-way-delay: 0
+      TCA network-delay: 0
+      TCA jitter mean: 0
+
+
+Channel Id: 13383059  Dst Site-Id: 10.50.3.60  Link Name: ISP1  DSCP: default [0] pfr-label: 0:0 | 0:0 [0x0] TCs: 0  BackupTCs: 5
+  Channel Created: 4w1d ago
+  Provisional State: Initiated and open
+  Operational state: Available
+  Channel to hub: FALSE
+  Interface Id: 17
+  Supports Zero-SLA: Yes
+  Muted by Zero-SLA: No
+  Estimated Channel Egress Bandwidth: 0 Kbps
+  Immitigable Events Summary:
+   Total Performance Count: 0, Total BW Count: 0
+   ODE Statistics:
+      Received: 73
+   TCA Statistics:
+      Received: 1946 ; Processed: 1906 ; Unreach_rcvd: 1946 ; Local Unreach_rcvd: 1926
+      TCA lost byte rate: 0
+      TCA lost packet rate: 0
+      TCA one-way-delay: 0
+      TCA network-delay: 0
+      TCA jitter mean: 0
+
+
+Channel Id: 17148178  Dst Site-Id: 10.50.3.60  Link Name: ISP1  DSCP: ef [46] pfr-label: 0:0 | 0:0 [0x0] TCs: 0  BackupTCs: 0
+  Channel Created: 00:43:37 ago
+  Provisional State: Discovered and open
+  Operational state: Available
+  Channel to hub: FALSE
+  Interface Id: 17
+  Supports Zero-SLA: Yes
+  Muted by Zero-SLA: No
+  Estimated Channel Egress Bandwidth: 0 Kbps
+  Immitigable Events Summary:
+   Total Performance Count: 0, Total BW Count: 0
+   ODE Statistics:
+      Received: 0
+   TCA Statistics:
+      Received: 0 ; Processed: 0 ; Unreach_rcvd: 0 ; Local Unreach_rcvd: 0
+      TCA lost byte rate: 0
+      TCA lost packet rate: 0
+      TCA one-way-delay: 0
+      TCA network-delay: 0
+      TCA jitter mean: 0
+
+
+Channel Id: 17151299  Dst Site-Id: 10.50.3.60  Link Name: ISP1  DSCP: af21 [18] pfr-label: 0:0 | 0:0 [0x0] TCs: 0  BackupTCs: 0
+  Channel Created: 00:07:41 ago
+  Provisional State: Discovered and open
+  Operational state: Available
+  Channel to hub: FALSE
+  Interface Id: 17
+  Supports Zero-SLA: Yes
+  Muted by Zero-SLA: No
+  Estimated Channel Egress Bandwidth: 0 Kbps
+  Immitigable Events Summary:
+   Total Performance Count: 0, Total BW Count: 0
+   ODE Statistics:
+      Received: 0
+   TCA Statistics:
+      Received: 0 ; Processed: 0 ; Unreach_rcvd: 0 ; Local Unreach_rcvd: 0
+      TCA lost byte rate: 0
+      TCA lost packet rate: 0
+      TCA one-way-delay: 0
+      TCA network-delay: 0
+      TCA jitter mean: 0

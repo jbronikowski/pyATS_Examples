@@ -1,0 +1,172 @@
+
+
+ Dst-Site-Prefix: 10.229.156.0/25     DSCP: default [0] Traffic class id:71120165
+  Clock Time:                 09:16:12 (CDT) 08/07/2019
+  TC Learned:                 5d05h ago
+  Present State:              CONTROLLED
+  Current Performance Status: in-policy
+  Current Service Provider:   ISP2 since 2d04h
+  Previous Service Provider:  ISP1 pfr-label: 0:0 | 0:0 [0x0] for 180 sec
+  BW Used:                    24 Kbps
+  Present WAN interface:      Tunnel200 in Border 10.1.0.104
+  Present Channel (primary):  13383058 ISP2 pfr-label:0:0 | 0:0 [0x0]
+  Backup Channel:             13383059 ISP1 pfr-label:0:0 | 0:0 [0x0]
+  Destination Site ID bitmap: 0
+  Destination Site ID:        10.50.3.60
+  Class-Sequence in use:      20
+  Class Name:                 BEST_EFFORT using policy User-defined
+    priority 2 packet-loss-rate threshold 40.0 percent
+    priority 2 byte-loss-rate threshold 40.0 percent
+  BW Updated:                 00:00:03 ago
+  Reason for Latest Route Change:    Backup to Primary path preference transition
+  Route Change History:
+             Date and Time                   Previous Exit                                     Current Exit                                Reason
+
+    1:  04:37:15 (CDT) 08/05/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+    2:  04:34:15 (CDT) 08/05/19   ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       Unreachable
+    3:  02:23:41 (CDT) 08/05/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+    4:  02:20:39 (CDT) 08/05/19   ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       Unreachable
+    5:  02:11:00 (CDT) 08/03/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+--------------------------------------------------------------------------------
+
+ Dst-Site-Prefix: 10.41.2.0/24        DSCP: default [0] Traffic class id:69687602
+  Clock Time:                 09:16:12 (CDT) 08/07/2019
+  TC Learned:                 1w1d ago
+  Present State:              CONTROLLED
+  Current Performance Status: in-policy
+  Current Service Provider:   ISP2 since 2d04h
+  Previous Service Provider:  ISP1 pfr-label: 0:0 | 0:0 [0x0] for 180 sec
+  BW Used:                    293 Kbps
+  Present WAN interface:      Tunnel200 in Border 10.1.0.104
+  Present Channel (primary):  13383058 ISP2 pfr-label:0:0 | 0:0 [0x0]
+  Backup Channel:             13383059 ISP1 pfr-label:0:0 | 0:0 [0x0]
+  Destination Site ID bitmap: 0
+  Destination Site ID:        10.50.3.60
+  Class-Sequence in use:      20
+  Class Name:                 BEST_EFFORT using policy User-defined
+    priority 2 packet-loss-rate threshold 40.0 percent
+    priority 2 byte-loss-rate threshold 40.0 percent
+  BW Updated:                 00:00:04 ago
+  Reason for Latest Route Change:    Backup to Primary path preference transition
+  Route Change History:
+             Date and Time                   Previous Exit                                     Current Exit                                Reason
+
+    1:  04:37:15 (CDT) 08/05/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+    2:  04:34:15 (CDT) 08/05/19   ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       Unreachable
+    3:  02:23:41 (CDT) 08/05/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+    4:  02:20:39 (CDT) 08/05/19   ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       Unreachable
+    5:  02:11:00 (CDT) 08/03/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+--------------------------------------------------------------------------------
+
+ Dst-Site-Prefix: 10.229.159.0/24     DSCP: default [0] Traffic class id:70231669
+  Clock Time:                 09:16:12 (CDT) 08/07/2019
+  TC Learned:                 1w0d ago
+  Present State:              CONTROLLED
+  Current Performance Status: in-policy
+  Current Service Provider:   ISP2 since 2d04h
+  Previous Service Provider:  ISP1 pfr-label: 0:0 | 0:0 [0x0] for 180 sec
+  BW Used:                    96 Kbps
+  Present WAN interface:      Tunnel200 in Border 10.1.0.104
+  Present Channel (primary):  13383058 ISP2 pfr-label:0:0 | 0:0 [0x0]
+  Backup Channel:             13383059 ISP1 pfr-label:0:0 | 0:0 [0x0]
+  Destination Site ID bitmap: 0
+  Destination Site ID:        10.50.3.60
+  Class-Sequence in use:      20
+  Class Name:                 BEST_EFFORT using policy User-defined
+    priority 2 packet-loss-rate threshold 40.0 percent
+    priority 2 byte-loss-rate threshold 40.0 percent
+  BW Updated:                 00:00:04 ago
+  Reason for Latest Route Change:    Backup to Primary path preference transition
+  Route Change History:
+             Date and Time                   Previous Exit                                     Current Exit                                Reason
+
+    1:  04:37:15 (CDT) 08/05/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+    2:  04:34:15 (CDT) 08/05/19   ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       Unreachable
+    3:  02:23:41 (CDT) 08/05/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+    4:  02:20:39 (CDT) 08/05/19   ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       Unreachable
+    5:  02:11:00 (CDT) 08/03/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+--------------------------------------------------------------------------------
+
+ Dst-Site-Prefix: 10.51.3.60/32       DSCP: af31 [26] Traffic class id:73301370
+  Clock Time:                 09:16:12 (CDT) 08/07/2019
+  TC Learned:                 00:01:04 ago
+  Present State:              CONTROLLED
+  Current Performance Status: in-policy
+  Current Service Provider:   ISP1 since 00:00:33 (hold until 56 sec)
+  Previous Service Provider:  Unknown
+  BW Used:                    0 Kbps
+  Present WAN interface:      Tunnel100 in Border 10.1.0.101
+  Present Channel (primary):  13383060 ISP1 pfr-label:0:0 | 0:0 [0x0]
+  Backup Channel:             16582242 ISP2 pfr-label:0:0 | 0:0 [0x0]
+  Destination Site ID bitmap: 0
+  Destination Site ID:        10.50.3.60
+  Class-Sequence in use:      10
+  Class Name:                 BUSINESS using policy User-defined
+    priority 2 packet-loss-rate threshold 5.0 percent
+    priority 1 one-way-delay threshold 500 msec
+    priority 2 byte-loss-rate threshold 5.0 percent
+  BW Updated:                 00:00:28 ago
+  Reason for Latest Route Change:    Uncontrolled to Controlled Transition
+  Route Change History:
+             Date and Time                   Previous Exit                                     Current Exit                                Reason
+
+    1:  09:15:39 (CDT) 08/07/19   None(0:0|0:0)/0.0.0.0/None (Ch:0)                  ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383060)       Uncontrolled to Controlled Transition
+--------------------------------------------------------------------------------
+
+ Dst-Site-Prefix: 10.229.157.128/25   DSCP: default [0] Traffic class id:69819938
+  Clock Time:                 09:16:12 (CDT) 08/07/2019
+  TC Learned:                 1w1d ago
+  Present State:              CONTROLLED
+  Current Performance Status: in-policy
+  Current Service Provider:   ISP2 since 2d04h
+  Previous Service Provider:  ISP1 pfr-label: 0:0 | 0:0 [0x0] for 180 sec
+  BW Used:                    0 Kbps
+  Present WAN interface:      Tunnel200 in Border 10.1.0.104
+  Present Channel (primary):  13383058 ISP2 pfr-label:0:0 | 0:0 [0x0]
+  Backup Channel:             13383059 ISP1 pfr-label:0:0 | 0:0 [0x0]
+  Destination Site ID bitmap: 0
+  Destination Site ID:        10.50.3.60
+  Class-Sequence in use:      20
+  Class Name:                 BEST_EFFORT using policy User-defined
+    priority 2 packet-loss-rate threshold 40.0 percent
+    priority 2 byte-loss-rate threshold 40.0 percent
+  BW Updated:                 00:00:05 ago
+  Reason for Latest Route Change:    Backup to Primary path preference transition
+  Route Change History:
+             Date and Time                   Previous Exit                                     Current Exit                                Reason
+
+    1:  04:37:15 (CDT) 08/05/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+    2:  04:34:15 (CDT) 08/05/19   ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       Unreachable
+    3:  02:23:41 (CDT) 08/05/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+    4:  02:20:39 (CDT) 08/05/19   ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       Unreachable
+    5:  02:11:00 (CDT) 08/03/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+--------------------------------------------------------------------------------
+
+ Dst-Site-Prefix: 10.34.89.192/26     DSCP: default [0] Traffic class id:71889509
+  Clock Time:                 09:16:12 (CDT) 08/07/2019
+  TC Learned:                 3d09h ago
+  Present State:              CONTROLLED
+  Current Performance Status: in-policy
+  Current Service Provider:   ISP2 since 2d04h
+  Previous Service Provider:  ISP1 pfr-label: 0:0 | 0:0 [0x0] for 180 sec
+  BW Used:                    0 Kbps
+  Present WAN interface:      Tunnel200 in Border 10.1.0.104
+  Present Channel (primary):  13383058 ISP2 pfr-label:0:0 | 0:0 [0x0]
+  Backup Channel:             13383059 ISP1 pfr-label:0:0 | 0:0 [0x0]
+  Destination Site ID bitmap: 0
+  Destination Site ID:        10.50.3.60
+  Class-Sequence in use:      20
+  Class Name:                 BEST_EFFORT using policy User-defined
+    priority 2 packet-loss-rate threshold 40.0 percent
+    priority 2 byte-loss-rate threshold 40.0 percent
+  BW Updated:                 00:00:04 ago
+  Reason for Latest Route Change:    Backup to Primary path preference transition
+  Route Change History:
+             Date and Time                   Previous Exit                                     Current Exit                                Reason
+
+    1:  04:37:15 (CDT) 08/05/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+    2:  04:34:15 (CDT) 08/05/19   ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       Unreachable
+    3:  02:23:41 (CDT) 08/05/19   ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Backup to Primary path preference transition
+    4:  02:20:39 (CDT) 08/05/19   ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       ISP1(0:0|0:0)/10.1.0.101/Tu100 (Ch:13383059)       Unreachable
+    5:  23:23:14 (CDT) 08/03/19   None(0:0|0:0)/0.0.0.0/None (Ch:0)                  ISP2(0:0|0:0)/10.1.0.104/Tu200 (Ch:13383058)       Uncontrolled to Controlled Transition
+--------------------------------------------------------------------------------
